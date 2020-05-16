@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebd923aa-c59e-46b3-99e1-28727eaa10da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo/w3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_RegEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_date-time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_iter().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_josn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_multi_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/w3_reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../panads_code/.idea/panads_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/.idea/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vidhi/.idea/vidhi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/five.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/five.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Flask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/one.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Flask" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Ss5rX3kmToDVbBcYvFuF0KenDO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.website">
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kruta\PycharmProjects\Flask\demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="website" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/website.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.website" />
+        <item itemvalue="Python.tcs" />
+        <item itemvalue="Python.one" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd923aa-c59e-46b3-99e1-28727eaa10da" name="Default Changelist" comment="" />
+      <created>1572339661875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572339661875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="218" key="GridCell.Tab.0.bottom" timestamp="1589624834693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589624834693" />
+    <state width="1579" height="218" key="GridCell.Tab.0.center" timestamp="1589624834693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589624834693" />
+    <state width="1579" height="218" key="GridCell.Tab.0.left" timestamp="1589624834692">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589624834692" />
+    <state width="1579" height="218" key="GridCell.Tab.0.right" timestamp="1589624834693">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589624834693" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1589611559436">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589611559436" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1589609503181">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1589609503181" />
+    <state x="463" y="180" key="search.everywhere.popup" timestamp="1589525673173">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1589525673173" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+{
+  "params":
+
+  {
+    "local_server":"True",
+    "local_url":"mysql://root:@localhost/codingblog",
+    "prod_url": "mysql://root:@localhost/codingblog",
+    "fb_url": "https://facebook.com/codingblog",
+    "tw_url": "https://twitter.com/codingblog",
+    "gh_url": "https://github.com/codingblog",
+    "blog_name": "coding Blog",
+    "tag_line": "The coding blog",
+    "sub_line":"A Blog like by programmers",
+    "gmail-user": "codingblog7@gmail.com",
+    "gmail-passowrd":"Coding@123",
+    "about_text": "Hi my name is krutarth and I create programming blog.",
+    "no_of_post": 3,
+    "login_image":"login.jpg",
+    "admin_user": "krutarth",
+    "admit_password":"khatri",
+    "upload_location":"C:\\Users\\kruta\\PycharmProjects\\Flask\\static"
+  }
+
+
+
+
+}
